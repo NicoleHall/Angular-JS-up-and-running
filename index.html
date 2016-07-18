@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="myApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Memories of Mike</title>
+    <script src="lib/angular/angular.min.js"></script>
+    <script src="js/controllers.js"></script>
+  </head>
+  <body>
+    <div ng-controller="myController">
+      <h1>{{author.name}}</h1>
+      <p>Mike's {{author.relationship}} from {{ author.state }}</p>
+
+    </div>
+  </body>
+</html>
