@@ -1,3 +1,1 @@
-# Memories-of-Mike
-
-This is an app for friends and family of Mike Hellerstedt to share fond memories
+https://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html
